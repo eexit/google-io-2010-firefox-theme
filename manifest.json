@@ -1,0 +1,43 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Google IO 2010",
+    "author": "Joris Berthelot",
+    "developer": {
+        "name": "Joris Berthelot",
+        "url": "https://github.com/eexit/google-io-2010-firefox-theme"
+    },
+    "description": "Google I/O 2010 official theme (ported from the Google Chrome theme)",
+    "theme": {
+        "images": {
+            "additional_backgrounds": [
+                "background.jpg"
+            ]
+        },
+        "properties": {
+            "additional_backgrounds_alignment": [
+                "right top"
+            ],
+            "additional_backgrounds_tiling": [
+                "repeat"
+            ]
+        },
+        "colors": {
+            "toolbar": "rgb(255, 255, 255, 0.9)",
+            "toolbar_text": "rgb(0, 0, 0)",
+            "frame": "rgb(0, 0, 0)",
+            "tab_background_text": "rgb(255, 255, 255)",
+            "toolbar_field": "rgb(255, 255, 255, 0.9)",
+            "toolbar_field_focus": "rgb(255, 255, 255)",
+            "toolbar_field_border": "rgb(255, 255, 255, 0.9)",
+            "toolbar_field_border_focus": "rgb(255, 255, 255)",
+            "toolbar_field_text": "rgb(0, 0, 0)",
+            "toolbar_top_separator": "rgb(255, 255, 255, 0.9)",
+            "toolbar_bottom_separator": "rgb(255, 255, 255, 0.9)",
+            "tab_line": "rgb(255, 255, 255, 0.9)",
+            "popup": "rgb(255, 255, 255)",
+            "popup_text": "rgb(0, 0, 0)",
+            "tab_loading": "rgb(255, 255, 255)"
+        }
+    }
+}
